@@ -1,14 +1,14 @@
 ## Things learnt
 ---
-<u></u> :-  underline tag
-<strong></strong> :- strong tag
+`<u></u> `:-  underline tag
+`<strong></strong> ` :- strong tag
 
 ### Lists
 * ul
 * ol
 
 ### table
-<table border="">
+```<table border="">
         <tr>
             <th></th>
             <th></th>
@@ -24,4 +24,4 @@
             <td></td>
             <td></td>
         </tr>
-    </table>
+</table>```
